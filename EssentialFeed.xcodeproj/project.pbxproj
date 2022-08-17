@@ -16,6 +16,7 @@
 		B0801D4D289A8B5800688EE9 /* RemoteFeedLoaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0801D4C289A8B5800688EE9 /* RemoteFeedLoaderTests.swift */; };
 		B0B6949C28A508BD00180478 /* RemoteFeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0B6949B28A508BD00180478 /* RemoteFeedLoader.swift */; };
 		B0B694EB28ACF0E500180478 /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0B694EA28ACF0E500180478 /* HTTPClient.swift */; };
+		B0B694ED28ACF1C200180478 /* FeedItemsMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0B694EC28ACF1C200180478 /* FeedItemsMapper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		B0801D4C289A8B5800688EE9 /* RemoteFeedLoaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoaderTests.swift; sourceTree = "<group>"; };
 		B0B6949B28A508BD00180478 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
 		B0B694EA28ACF0E500180478 /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
+		B0B694EC28ACF1C200180478 /* FeedItemsMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItemsMapper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 			children = (
 				B0B6949B28A508BD00180478 /* RemoteFeedLoader.swift */,
 				B0B694EA28ACF0E500180478 /* HTTPClient.swift */,
+				B0B694EC28ACF1C200180478 /* FeedItemsMapper.swift */,
 			);
 			path = "Feed API";
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				B0B6949C28A508BD00180478 /* RemoteFeedLoader.swift in Sources */,
 				B0B694EB28ACF0E500180478 /* HTTPClient.swift in Sources */,
 				B0801D4A2899401200688EE9 /* FeedLoader.swift in Sources */,
+				B0B694ED28ACF1C200180478 /* FeedItemsMapper.swift in Sources */,
 				B0801D4828993BC900688EE9 /* FeedItem.swift in Sources */,
 				B0801D3228993B7C00688EE9 /* EssentialFeed.docc in Sources */,
 			);
