@@ -1,8 +1,8 @@
 import Foundation
 
-enum LoadFeedResult {
-    case seccess([FeedItem])
-    case error(Error)
+public enum LoadFeedResult {
+    case success([FeedItem])
+    case failure(Error)
 }
 
 protocol FeedLoader {
