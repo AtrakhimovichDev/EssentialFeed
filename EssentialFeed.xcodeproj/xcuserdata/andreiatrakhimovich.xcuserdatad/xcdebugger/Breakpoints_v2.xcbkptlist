@@ -109,8 +109,8 @@
             filePath = "EssentialFeedTests/Feed API/URLSessionHTTPClientTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "169"
-            endingLineNumber = "169"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
             landmarkName = "startLoading()"
             landmarkType = "7">
             <Locations>
@@ -157,8 +157,8 @@
             filePath = "EssentialFeedTests/Feed API/URLSessionHTTPClientTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "170"
-            endingLineNumber = "170"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
             landmarkName = "startLoading()"
             landmarkType = "7">
          </BreakpointContent>
