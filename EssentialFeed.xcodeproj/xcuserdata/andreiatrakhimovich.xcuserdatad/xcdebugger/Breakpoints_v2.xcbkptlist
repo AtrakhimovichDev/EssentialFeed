@@ -163,5 +163,117 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52BA3CA8-323B-4691-9C90-DFAE9A862088"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeedAPIEndToEndTests/EssentialFeedAPIEndToEndTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "test_endToEndTestServerGETFeedResult_matchesFixedTestAccountData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A94C5D6-C1CF-479F-ACDF-22F7D21578FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeed/Feed API/RemoteFeedLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "load(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F979D57C-32E3-4DED-9B43-71CCAD2BCD9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeedAPIEndToEndTests/EssentialFeedAPIEndToEndTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "test_endToEndTestServerGETFeedResult_matchesFixedTestAccountData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC031C26-8715-4563-9F68-754D9A7537A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeedAPIEndToEndTests/EssentialFeedAPIEndToEndTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "test_endToEndTestServerGETFeedResult_matchesFixedTestAccountData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC031C26-8715-4563-9F68-754D9A7537A2 - 9eba1fc802726da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialFeedAPIEndToEndTests.EssentialFeedAPIEndToEndTests.test_endToEndTestServerGETFeedResult_matchesFixedTestAccountData() -&gt; ()"
+                  moduleName = "EssentialFeedAPIEndToEndTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreiatrakhimovich/iOS/EssentialDevelopers/EssentialFeed/EssentialFeedAPIEndToEndTests/EssentialFeedAPIEndToEndTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+               <Location
+                  uuid = "EC031C26-8715-4563-9F68-754D9A7537A2 - 9eba1fc802726da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EssentialFeedAPIEndToEndTests.EssentialFeedAPIEndToEndTests.test_endToEndTestServerGETFeedResult_matchesFixedTestAccountData() -&gt; ()"
+                  moduleName = "EssentialFeedAPIEndToEndTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreiatrakhimovich/iOS/EssentialDevelopers/EssentialFeed/EssentialFeedAPIEndToEndTests/EssentialFeedAPIEndToEndTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45C5AAC2-E7FA-4FE2-9448-F69FAAD88300"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EssentialFeed/Feed API/FeedItemsMapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "map(_:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
